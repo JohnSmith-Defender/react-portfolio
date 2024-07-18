@@ -37,10 +37,3 @@
 [build]
   command = "npm run build"
   publish = "build"
-
-[build.environment]
-  NPM_FLAGS = "--force"
-
-[build.command]
-  - npm install $NPM_FLAGS
-  - npm run build
