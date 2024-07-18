@@ -37,3 +37,9 @@
 [build]
   command = "npm run build"
   publish = "build"
+
+[context.production.environment]
+  NPM_FLAGS = "--force"
+
+[context.production.build]
+  command = "npm install $NPM_FLAGS && npm run build"
