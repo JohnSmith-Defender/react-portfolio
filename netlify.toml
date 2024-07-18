@@ -34,6 +34,9 @@
 [context.staging.environment] # “staging” is a branch name
   NODE_ENV = "development"
 
+[context.production.environment]
+  NPM_FLAG = "-f"
+
 [build]
   command = "npm run build"
   publish = "build"
