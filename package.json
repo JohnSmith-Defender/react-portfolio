@@ -1042,7 +1042,7 @@
     "watchpack": "^1.6.0",
     "wbuf": "^1.7.3",
     "webidl-conversions": "^4.0.2",
-    "webpack": "^5.93.0",
+    "webpack": "^4.0.0",
     "webpack-dev-middleware": "^7.2.1",
     "webpack-dev-server": "^3.9.0",
     "webpack-log": "^2.0.0",
