@@ -42,4 +42,4 @@
   NPM_FLAGS = "--force"
 
 [context.production.build]
-  command = "npm install $NPM_FLAGS && npm run build"
+  command = "npm install --force && npm run build"
