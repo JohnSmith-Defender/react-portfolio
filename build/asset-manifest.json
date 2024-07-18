@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.367c012b.css",
+    "main.js": "/static/js/main.aa84927d.js",
+    "static/media/earth.jpg": "/static/media/earth.a08c82a61f5bf923991e.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/image4.jpg": "/static/media/image4.90a40fd5fdbcfc223649.jpg",
+    "static/media/image1_1.jpg": "/static/media/image1_1.50d19f3147b660fc4f89.jpg",
+    "static/media/ionicons.svg?v=2.0.0": "/static/media/ionicons.ee5b17dfd3f2d12ff4e2.svg",
+    "static/media/image2_2.jpg": "/static/media/image2_2.cf24a7af2deb843e63f7.jpg",
+    "static/media/image2_3.jpg": "/static/media/image2_3.4cd9414cf61c73f430bd.jpg",
+    "static/media/image2_1.jpg": "/static/media/image2_1.05bde573735dde28d018.jpg",
+    "static/media/image3_1.jpg": "/static/media/image3_1.a4683cbd684fb658eebd.jpg",
+    "static/media/image1_2.jpg": "/static/media/image1_2.5e4ea028ea516d300423.jpg",
+    "static/media/image3_2.jpg": "/static/media/image3_2.a1210c45c17a2413a749.jpg",
+    "static/media/ionicons.ttf?v=2.0.0": "/static/media/ionicons.1fa6a1e8581aaedf7344.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/image3_3.jpg": "/static/media/image3_3.b1d4d60be5bf394e6791.jpg",
+    "static/media/ionicons.eot?v=2.0.0": "/static/media/ionicons.68e3a4f9a8d8c679b4ae.eot",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/image1_3.jpg": "/static/media/image1_3.6122862cc6d3ddd7ddd1.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ionicons.woff?v=2.0.0": "/static/media/ionicons.0b4ad6170d93c4aa91ee.woff",
+    "static/media/male1.png": "/static/media/male1.33b5179ebc3ff05be62d.png",
+    "static/media/myImage.png": "/static/media/myImage.d37bb1c946c59794414c.png",
+    "static/media/male.png": "/static/media/male.cadeca2c10c5f440ffa7.png",
+    "index.html": "/index.html",
+    "main.367c012b.css.map": "/static/css/main.367c012b.css.map",
+    "main.aa84927d.js.map": "/static/js/main.aa84927d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367c012b.css",
+    "static/js/main.aa84927d.js"
+  ]
+}
